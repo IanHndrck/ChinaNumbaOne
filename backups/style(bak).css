@@ -1,0 +1,212 @@
+@import url("style.css");
+html {
+  background-image: url(https://wallpaperaccess.com/full/1838797.jpg);
+  background-position: center;}
+
+
+h1 {
+  color: #000316;
+  text-align: center;}
+
+
+h1 {
+  background-color: lightblue;
+}
+
+
+#sector_1 {
+  background-color: #000316;
+  padding: 0.5px;border: 3px solid lightblue;
+  border-radius: 15px;
+  height: 100px;
+  margin: 20px;
+}
+
+#sector_2 {
+  background-color: #000316;
+  padding: 30px;border: 3px solid lightblue;
+  border-radius: 15px;
+}
+
+
+#sector_1 {
+  opacity: 0.95;
+}
+
+
+#sector_2 {
+  opacity: 0.95;
+}
+
+
+a1 {
+  color:lightblue;
+  text-align: center;
+}
+
+
+a2 {
+  color:lightblue;
+}
+
+
+a2 {
+  font-family:serif; font: times;
+}
+
+
+a1 {
+  font-family:monospace;
+}
+
+
+h1 {
+  font-family: serif;
+  font: times new roman;
+}
+
+
+a3 {
+  color:lightblue;
+}
+
+
+a3 {
+  text-align: justify;
+}
+
+
+a3 {
+  font-family:sans-serif;
+}
+
+
+a2 {
+  padding-left: 10px;
+}
+
+
+#sector_3 {
+  background-color: #000316;padding: 30px;border: 3px solid lightblue; border-radius: 15px;
+}
+
+
+#sector_3 {
+  opacity: 0.95;}
+a4 {
+  color: lightblue;
+}
+
+
+a4 {
+  text-align: left;
+}
+
+
+a5 {
+  text-align: center;
+}
+
+
+a6 {
+  color: lightblue;
+}
+
+
+c1 {
+  font-family:serif; font: times;color:lightblue; padding-left: 10px;
+}
+
+
+c2 {
+  color: lightblue; font-family: sans-serif; font: times; padding-right: 40px;
+}
+
+
+
+
+#sector_4 {
+  background-color: #000316;
+  padding: 30px;
+  height: 6150px;
+  border: 3px solid lightblue;
+  border-radius: 15px;
+ }
+
+
+#sector_4{
+  opacity: 0.95;
+}
+
+
+#sector_5{
+  background-color: #000316;
+  padding: 30px;
+  height: 800px;
+  border: 5px solid lightblue;
+  border-radius: 15px;
+ }
+
+
+#sector_5{
+  opacity: 0.95;
+}
+
+
+a24 a:hover {
+  color: #f1f1f1;}
+
+
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #000316; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: lightblue;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Active/current link */
+.sidebar a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

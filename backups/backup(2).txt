@@ -1,0 +1,33 @@
+      <b1><P><img style="position:absolute; border-style: groove; BOTTOM:-170px; LEFT:100px; WIDTH:250px; HEIGHT:250px" width="250px" height="250px" src="C:\Users\USER\Documents\ian_coding_journey\images\BIGBOSS.jpg" alt="THE SINGLE MOST HANDSOME HUMAN SPECIMEN TO EVER EXIST IN THE COSMOS"></P></b1>
+<!-- If youre wondering what the labels are... the "a"'s are paragraphs and "b"s are images and media :D -->
+      <a4><h3  style="position:absolute; LEFT:70PX; BOTTOM: 90px;"><b><big>MEMBERS:</big></b></h3><a4>
+      <a5><h4  style="position:absolute; LEFT:100px; BOTTOM:-240PX;"><b><big> THE BIG BOSS </big></b></h4></a5>
+      <a6><p   style="position:absolute;BOTTOM:-50PX;"><BIG>T</BIG>he man, the legend, it's the <b>BIG BOSS</b> himself.  Describes himself as a simple man with a huge weiner. But we all know<br/>
+                    that this man not even close to being simple. The complexity of his existence and the shear size of his weiner has perple-<br/>xed scientists and philosophers around the globe. But alas
+                    this man lives a seemingly simple life, and goes by the Alias of<br/> 'Chrystian Paul Semense Quicoy'. He has multiple girlfriends and is notably an Alpha Male of both China Numba One and<br/> the entire multiverse.  </p></a6>
+      <b2><img style="position:absolute; border-style:groove; left:100px; bottom:-600px; height:250px; width:250px;" src="images\CAPT(2).jpg" alt="the most skilled and talented man on the face of the planet"></b2>
+      <a7><h4  style="position:absolute; LEFT:100px; BOTTOM:-670PX;"><b>ANGELO "CAPT" ROMANO</b></h4></a7>
+      <a15><p  style="position:absolute; BOTTOM: 500px">  </p>
+      <b3><img style="position:absolute; border-style:groove; left:100px; bottom:-1030px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\COACH.jpg" alt="einstien's professor"/></b3>
+      <a8><h4  style="position:absolute; LEFT:100px; BOTTOM:-1100PX;"><b>CEASAR "COACH" PERALTA</b></h4></a8>
+
+      <b4><img style="position:absolute; border-style:groove; left:100px; bottom:-1460px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\LEONARDO.jpg" alt="the great weeb/womanizer"/></b4>
+      <a9><h4  style="position:absolute; LEFT:100px; BOTTOM:-1530PX;"><b>LENARD "BALONG" VALDEZ</b></h4></a9>
+
+      <b5><img style="position:absolute; border-style:groove; left:100px; bottom:-1890px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\DIO.jpg" alt="my man dio brando"/></b5>
+      <a10><h4  style="position:absolute; LEFT:100px; BOTTOM:-1960PX;"><b>CHRIS "DIO" SINGIDAS</b></h4></a10>
+
+      <b6><img style="position:absolute; border-style:groove; left:100px; bottom:-2320px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\PRENS.jpg" alt="the ever horny prince"/></b6>
+      <a11><h4 style="position:absolute; LEFT:100px; BOTTOM:-2390;"><b>PRINCE "MAYA" FALCON</b></h4></a11>
+
+      <b7><img style="position:absolute; border-style:groove; left:100px; bottom:-2750px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\DISOWWWN.jpg" alt="the simp lmao HAHAHAHA"/></b7>
+      <a12><h4 style="position:absolute; LEFT:100px; BOTTOM:-2820;"><b>EDISON "SINK" DASOK</b></h4></a12>
+
+      <b8><img style="position:absolute; border-style:groove; left:100px; bottom:-3180px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\MATTEO.jpg" alt="retarded mofo lmao HAHAHAHA"/>
+      <a13><h4 style="position:absolute; LEFT:100px; BOTTOM:-3250;"><b>MATTHEW "BALLBOY" TOLENTINO</b></h4></a13>
+
+      <b9><img style="position:absolute; border-style:groove; left:100px; bottom:-3610px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\MAYOLS.jpg" alt="lil fuckin nigga fr XD"/>
+      <a14><h4 style="position:absolute; LEFT:100px; BOTTOM:-3680;"><b>MYLES "SPIKY FUCKER" CALIMBO</b></h4></a14>
+
+      <b10><img style="position:absolute; border-style:groove; left:100px; bottom:-4040px; height:250px; width:250px;" src="C:\Users\USER\Documents\ian_coding_journey\images\BAYUTSELF.jpg" alt="toyab self"/>
+      <a14><h4 style="position:absolute; LEFT:100px; BOTTOM:-4110;"><b>IAN "JUGOI" PUGOY</b></h4></a14>
